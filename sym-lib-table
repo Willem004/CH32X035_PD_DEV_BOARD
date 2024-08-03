@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_WCH_CH32X03")(type "KiCad")(uri "${KIPRJMOD}/MCU_WCH_CH32X03.kicad_sym")(options "")(descr ""))
+)
