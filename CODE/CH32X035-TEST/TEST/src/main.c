@@ -6,7 +6,7 @@
 
 int main(void)
 {
-    USART_Printf_Init(9600);
+    USART_Printf_Init(921600);
     while (1)
     {
         printf("HelloWorld\n");
